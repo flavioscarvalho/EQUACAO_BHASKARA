@@ -30,7 +30,5 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto ou adicio
 
 ## Licença
 
-Este projeto é licenciado sob a [Inserir a licença de sua escolha] - consulte o arquivo [LICENSE.md](LICENSE.md) para obter mais detalhes.
-
-Aproveite a utilização desta calculadora de equação do segundo grau para aprender e praticar seus conhecimentos de álgebra!
+Aproveite a utilização desta calculadora de equação do segundo grau para aprender e praticar seus conhecimentos de álgebra! 
 
